@@ -1,0 +1,20 @@
+  Esse é o normal!!
+
+-> te da um array e te da o alvo
+
+int esq = 0;
+int dir = array.length - 1;
+
+while(esq <= dir){
+    int meio = esq + (dir - esq)/2;
+
+    if(array[meio] == alvo){
+        return meio;
+    } else if (array[meio] < alvo){
+        esq = meio + 1;
+    } else {
+        dir = meio - 1;
+    }
+    return - 1 // ou return esq se per a posição que o alvo entraria
+}
+
