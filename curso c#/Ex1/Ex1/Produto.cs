@@ -16,7 +16,7 @@ namespace Ex1 {
             return Nome + ", $" + Preco + ", " + Quantidade + " unidades, Total: $" + valorTotalEmestoque();
         }
 
-        public void AdicionarProsutos(int quantidade) {
+        public void AdicionarProdutos(int quantidade) {
             Quantidade += quantidade;
         }
 
