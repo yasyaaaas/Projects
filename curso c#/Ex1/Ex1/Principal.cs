@@ -18,7 +18,7 @@ namespace Ex1 {
             Console.WriteLine();
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int qtd = int.Parse(Console.ReadLine());
-            p.AdicionarProsutos(qtd);
+            p.AdicionarProdutos(qtd);
 
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
