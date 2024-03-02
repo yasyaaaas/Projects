@@ -56,13 +56,13 @@ while running:
         snake.append(snake_pixel.copy())
     
     keys = pygame.key.get_pressed()
-    if keys[pygame.K_w]:
+    if keys[pygame.K_up]:
         snake_direction = (0, -pixel_width)
-    if keys[pygame.K_s]:
+    if keys[pygame.K_DOWN]:
         snake_direction = (0, pixel_width)
-    if keys[pygame.K_a]:
+    if keys[pygame.K_LEFT]:
         snake_direction = (-pixel_width, 0)
-    if keys[pygame.K_d]:
+    if keys[pygame.K_RIGHT]:
         snake_direction = (pixel_width, 0)
     
     for snake_part in snake:
