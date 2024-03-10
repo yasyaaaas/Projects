@@ -1,0 +1,64 @@
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\appsettings.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.exe
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.deps.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.runtimeconfig.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.pdb
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.csproj.AssemblyReference.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.AssemblyInfoInputs.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.AssemblyInfo.cs
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.MeuDiario.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.build.MeuDiario.API.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MeuDiario.API.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MeuDiario.API.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\scopedcss\bundle\MeuDiario.API.styles.css
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.csproj.CopyComplete
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\refint\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.pdb
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.genruntimeconfig.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\ref\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\appsettings.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.exe
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.deps.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.runtimeconfig.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\MeuDiario.API.pdb
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.csproj.AssemblyReference.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.AssemblyInfoInputs.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.AssemblyInfo.cs
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.MeuDiario.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.build.MeuDiario.API.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MeuDiario.API.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MeuDiario.API.props
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\scopedcss\bundle\MeuDiario.API.styles.css
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.csproj.CopyComplete
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\refint\MeuDiario.API.dll
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.pdb
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\MeuDiario.API.genruntimeconfig.cache
+C:\Users\yasmi\OneDrive\Área de Trabalho\tudo\Projects\Projeto Diario\DiarioDaYasmin\MeuDiario.API\MeuDiario.API\obj\Debug\net8.0\ref\MeuDiario.API.dll

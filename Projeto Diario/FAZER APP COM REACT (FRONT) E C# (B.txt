@@ -1,0 +1,20 @@
+FAZER APP COM REACT (FRONT) E C# (BACK) 
+
+1° - fazer uma pasta princiapl e depois duas pastas 1 pra .API e outra pra .Web
+2° - abrir vs e criar ASP.NET Core Web API (fazer pasta Nome.API)
+3° - criar na pasta Controllers um .cs para fazer o código do back (DiarioController.cs)
+4° - criar uma pasta Models e nessa colocar o que vai precisar (Models < Diario.cs)
+5° - fazer o código e rodar no https para ver o Swagger UI e testar o Back
+6° - testar tanto no swagger tanto no programa do vscode
+7° - ir para o front
+8° - fazer o cd nomeNome.Web para fazer as coisas na pasta do Web
+9° - vai na pasta do app e digite no terminal npm init -y
+10° - fazer npm instal react react-dom
+11° - fazer npx create-react-app (algum nome)
+OBS.: se não for fazer npm istall -g create-react-app, depois fazer npx create-react-app (algum nome)
+12° - fazer cd (algum nome)
+13° - fazer cd start
+14° - agora é fazer front np App.js (que está dentro do src)
+15° - primeiro fazer css depois javascript e por ultimo fazer html
+OBS.: abrir no crome (fica melhor do que no opera)
+16° se precisar fazer npm install styled-components , depois npm start
